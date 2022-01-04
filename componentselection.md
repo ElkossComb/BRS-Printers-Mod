@@ -39,14 +39,14 @@ Carbon fiber and titanium based head| <br>|Nov 2021|
 **V1.1-LGX Mosquito**|![alt text](/image/mosquito.png)![alt text](/image/license.png)| LGX, Mosquito, Carbon fiber PA12 and titanium based head| <br>|Dec 2021|
 **V1.2-LGX-Lite Mosquito|![alt text](/image/flathead3.png)![alt text](/image/license.png)| LGX-lite, Mosquito, Carbon fiber PA12 and titanium based head| <br>|Dec 2021|
 **V1.1-LGX V6|![alt text](/image/license.png)| LGX, E3D V6, Carbon fiber PA12 and titanium based head| <br>|2022|
-**V1.1-LGX Nova|![alt text](/image/nova.png)| LGX, Nova, Carbon fiber PA12 and titanium based head| <br>|Dec 2021|
-**V1.1-LGX Takoto|![alt text](/image/takoto.png)| LGX, Takoto, Carbon fiber PA12 and titanium based head| <br>|Dec 2021|
+**V1.1-LGX Nova|![alt text](/image/nova.png)![alt text](/image/license.png)| LGX, Nova, Carbon fiber PA12 and titanium based head| <br>|Dec 2021|
+**V1.1-LGX Takoto|![alt text](/image/takoto.png)![alt text](/image/license.png)| LGX, Takoto, Carbon fiber PA12 and titanium based head| <br>|Dec 2021|
 **V1.1-LGX Dragon|![alt text](/image/license.png)| LGX, Dragon, Carbon fiber PA12 and titanium based head| <br>|2022|
 
 2/Toolboard
 Version|Description|ReleaseDate|Gerber|Thingiverse
 -------------|-----------|-----------|-----------|------------
-**V0.1-Toolboard**|| A PCB part to deliver a full modularity| <br>|Jan 2022|
+**V0.1-Toolboard**|![alt text](/image/license.png)| A PCB part to deliver a full modularity| <br>|Jan 2022|
 
 ## 5. Extra-upgrades
 Here few tiny upgrades
